@@ -1,4 +1,5 @@
-# Coursera_Capstone
+# The-Battle-of-Neighborhoods-k-mean-clustering
+
 The average American moves about eleven times in their lifetime. This brings us to the
 question: Do people move until they find a place to settle down where they truly feel happy,
 or do our wants and needs change over time, prompting us to eventually leave a town we
